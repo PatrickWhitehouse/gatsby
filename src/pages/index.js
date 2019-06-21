@@ -54,7 +54,7 @@ export default () => (
                 <div className="content">
                     <h3 className="title is-3">Patrick who?</h3>
                     <p>Hey 👋🏻. I'm Patrick, a Front End Developer based in sunny Manchester. My day to day job is working with Magento 2 and the occasional WordPress integration. I've always been passionate about technology and keep up to date with the latest trends by using platforms such as <a href="https://twitter.com/patrickdoesweb" target="_blank">Twitter</a> to follow the industries leaders.</p>
-                    <p>I thrive off of learning new skills and believe it is important to have an extended range of knowledge, especially with the constant releases of new frameworks, whether that be front end or back end specific.</p>
+                    <p>I thrive off learning new skills and believe it is important to have an extended range of knowledge, especially with the constant releases of new frameworks, whether that be front end or back end specific.</p>
                 </div>
             </div>
         </section>
